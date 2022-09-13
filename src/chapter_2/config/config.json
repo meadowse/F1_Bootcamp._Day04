@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "meadowse",
+    "password": null,
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
